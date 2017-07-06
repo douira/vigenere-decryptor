@@ -1,0 +1,20 @@
+{
+  "name": "vigenere-decryptor",
+  "version": "1.0.0",
+  "description": "decrypts a string that was encrypted with the Vigenere encryption scheme without knowing the key",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cracking",
+    "decryption",
+    "cryptography",
+    "vigenere"
+  ],
+  "author": "douira",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}

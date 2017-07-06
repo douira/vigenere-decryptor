@@ -1,0 +1,7 @@
+{
+	"asi": false,
+	"esnext": true,
+	"node": true,
+	"maxlen": 150,
+	"indent": 2
+}
